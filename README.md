@@ -1,2 +1,2 @@
 # Cycle-pix2pix
-Cycle-pix2pix tostrength GAN
+Cycle-pix2pix to strength GAN
